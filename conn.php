@@ -1,7 +1,7 @@
 <?php 
 $dbhost='localhost';
-$dbuser='id1753782_bhaskar646';
-$dbpass='bhaskar1';
+$dbuser='your own username';
+$dbpass='enter your own pass';
 $database='id1753782_complain';
 
 
